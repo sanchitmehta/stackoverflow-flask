@@ -1,7 +1,7 @@
 
 ## Prerequisites
 To use this demo app:
-
+.
 - [Install Python 3](https://www.python.org/downloads/)
 - [Install Docker Community Edition](https://www.docker.com/community-edition)
 - (Optional) [Install the Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-windows?view=azure-cli-latest)
